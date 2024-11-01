@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-23 17:42+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-superquiz.php:55
+msgid "Lösungsvorschlag: "
+msgstr "Suggestion:"
+
+#: wp-superquiz.php:56
+msgid "Lösung: "
+msgstr "Solution:"
+
+#: wp-superquiz.php:57
+msgid "<strong>Quiz beendet!</strong><br/>Gratulation &mdash; <a href=\"[COMMENT_LINK]\">[COMMENT_AUTHOR]</a> hat das Quiz gewonnen."
+msgstr "<strong>Quiz done!</strong><br/>Congratulation &mdash; <a href=\"[COMMENT_LINK]\">[COMMENT_AUTHOR]</a> has won the quiz."
+
+#: wp-superquiz.php:59
+msgid "Lösungsvorschläge bitte in folgender Form als Kommentar übermitteln:<br/>[quiz:Antwort] bzw. [quiz:Antwort auf Frage 1, Antwort auf Frage 2, ...]<br/><br/>"
+msgstr "Please submit your suggestions in following formation as comment:<br/>[quiz:Answer] resp. [quiz:Answer to Question 1, Answer to Question 2, ...]<br/><br/>"
+
+#: wp-superquiz.php:60
+msgid "Pro Kommentar bitte nur einen Lösungsvorschlag abschicken. Gegebenfalls (je nach Einstellung) werden die Lösungsvorschläge maskiert (******) dargestellt. Die Maskierungen werden automatisch aufgehoben, sobald die richtige Antwort übermittelt wurde. Groß- und Kleinschreibung kann ignoriert werden.<br/><br/>"
+msgstr "Please submit only one suggestion per comment. Your suggestions will be masked with asterisks. If the quiz is finished, all suggestions will become visible. Letter case can be ignored.<br/><br/>"
+
+#: wp-superquiz.php:61
+msgid "Dieses Quiz wurde mit dem Plugin <a href=\"http://www.superlevel.de/wordpress/wpsuperquiz\">WPSuperQuiz</a> von <a href=\"http://www.superlevel.de\">Superlevel</a> realisiert."
+msgstr "This quiz was realized using the <a href=\"http://www.superlevel.de/wordpress/wpsuperquiz\">WPSuperQuiz</a> plugin from <a href=\"http://www.superlevel.de\">Superlevel</a>."
+
+#: wp-superquiz.php:76
+#: wp-superquiz.php:186
+msgid "WPSuperQuiz Konfiguration"
+msgstr "WPSuperQuiz Configuration"
+
+#: wp-superquiz.php:102
+msgid "Einstellungen"
+msgstr "Settings"
+
+#: wp-superquiz.php:160
+#, php-format
+msgid "<em>%s</em> wurde nicht gefunden!"
+msgstr "Could not find <em>%s</em>!"
+
+#: wp-superquiz.php:163
+#, php-format
+msgid "<em>%s</em> konnte nicht gelesen werden!"
+msgstr "Could not read <em>%s</em>!"
+
+#: wp-superquiz.php:166
+#, php-format
+msgid "<em>%s</em> ist nicht beschreibbar!"
+msgstr "Could not access <em>%s</em>. The file is read-only."
+
+#: wp-superquiz.php:169
+#, php-format
+msgid "<em>%s</em> kann direkt bearbeitet werden.</small>"
+msgstr "You can directly edit <em>%s</em>."
+
+#: wp-superquiz.php:191
+msgid "Antwort-Kommentare"
+msgstr "Suggestion Comments"
+
+#: wp-superquiz.php:194
+msgid "Lösungsvorschlag"
+msgstr "Suggestion"
+
+#: wp-superquiz.php:194
+#: wp-superquiz.php:198
+msgid "kein HTML"
+msgstr "no HTML"
+
+#: wp-superquiz.php:198
+msgid "Lösung"
+msgstr "Solution"
+
+#: wp-superquiz.php:202
+msgid "Quiz-Beitrag"
+msgstr "Quiz Post"
+
+#: wp-superquiz.php:205
+msgid "Erfolgsmeldung"
+msgstr "Results Message"
+
+#: wp-superquiz.php:205
+#: wp-superquiz.php:216
+msgid "HTML erlaubt"
+msgstr "HTML allowed"
+
+#: wp-superquiz.php:207
+msgid "Platzhalter:"
+msgstr "Placeholder:"
+
+#: wp-superquiz.php:208
+msgid "Link zum Kommentar"
+msgstr "Link to Comment"
+
+#: wp-superquiz.php:209
+msgid "Autor des Kommentars"
+msgstr "Comment's Author"
+
+#: wp-superquiz.php:211
+#: wp-superquiz.php:218
+msgid "Einbindung in Artikel:"
+msgstr "Integration in Article:"
+
+#: wp-superquiz.php:216
+msgid "Spielregeln"
+msgstr "Rules"
+
+#: wp-superquiz.php:223
+msgid "CSS"
+msgstr "CSS"
+
+#: wp-superquiz.php:230
+msgid "Änderungen übernehmen"
+msgstr "Apply changes"
+
+#: wp-superquiz.php:254
+msgid "Beitrag als Quiz markieren"
+msgstr "Mark post as quiz"
+
+#: wp-superquiz.php:257
+msgid "Antworten maskieren"
+msgstr "Mask answers"
+
+#: wp-superquiz.php:282
+msgid "Erste richtige Antwort gewinnt"
+msgstr "First correct answer wins"
+
+#: wp-superquiz.php:285
+msgid "Quiz wird beendet am"
+msgstr "End of quiz"
+
+#: wp-superquiz.php:294
+msgid "Januar"
+msgstr "January"
+
+#: wp-superquiz.php:295
+msgid "Februar"
+msgstr "February"
+
+#: wp-superquiz.php:296
+msgid "März"
+msgstr "March"
+
+#: wp-superquiz.php:297
+msgid "April"
+msgstr "April"
+
+#: wp-superquiz.php:298
+msgid "Mai"
+msgstr "May"
+
+#: wp-superquiz.php:299
+msgid "Juni"
+msgstr "June"
+
+#: wp-superquiz.php:300
+msgid "Juli"
+msgstr "July"
+
+#: wp-superquiz.php:301
+msgid "August"
+msgstr "August"
+
+#: wp-superquiz.php:302
+msgid "September"
+msgstr "September"
+
+#: wp-superquiz.php:303
+msgid "Oktober"
+msgstr "October"
+
+#: wp-superquiz.php:304
+msgid "November"
+msgstr "November"
+
+#: wp-superquiz.php:305
+msgid "Dezember"
+msgstr "December"
+
+#: wp-superquiz.php:316
+msgid "Sollten bis zu diesem Zeitpunkt mehrere richtige Antworten vorliegen, wird der Gewinner automatisch in einem Losverfahren ermittelt und genannt."
+msgstr "If by this time several correct answers are available, the winner will be identified and named automatically in a lottery."
+
+#: wp-superquiz.php:318
+msgid "Antwort(en)"
+msgstr "Answer(s)"
+
+#: wp-superquiz.php:259
+msgid "Mehrere Antworten mit Kommata trennen."
+msgstr "Separate multiple answers with comma and different spellings with |."
+
+#: wp-superquiz.php:259
+msgid "z.B.: Antwort 1, Antwort 2, Antwort 3"
+msgstr "e.g.: Answer 1|Answer1, Answer 2, Answer 3|Answer three"
+

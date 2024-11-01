@@ -1,0 +1,23 @@
+.superquiz-finish {
+  padding: 15px;
+  text-align: center;
+  border: dotted 1px #ccc;
+  margin: 0 0 1em 0;
+  background: #fafafa;
+}
+
+.superquiz-rules {
+  font-size: 0.8em;
+  line-height: 1.4em;
+  margin: 0 0 1em 0;
+}
+
+.superquiz-before-suggestion {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.superquiz-before-solution {
+  font-weight: bold;
+  margin-right: 5px;
+}
